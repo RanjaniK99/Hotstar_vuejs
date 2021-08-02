@@ -36,4 +36,9 @@ p {
 .txt{
   text-decoration: none;
 }
+@media (min-width: 70px) and (max-width: 310px) {
+  .content{
+    margin-left:5px;
+  }
+}
 </style>
