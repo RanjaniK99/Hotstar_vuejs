@@ -54,7 +54,7 @@
   width:100% !important;
   height:400px !important;
 }
-@media screen and (min-width: 70px) and (max-width: 760px) {
+@media screen and (min-width: 50px) and (max-width: 760px) {
   .carousel {
     width: 100% !important;
     height: 200px !important;
@@ -64,7 +64,7 @@
     height: 200px !important;
   }
 }
-@media screen and (min-width: 760px) and (max-width: 1024px) {
+@media screen and (min-width: 760px) and (max-width: 1200px) {
   .carousel {
     width: 100% !important;
     height: 300px !important;
