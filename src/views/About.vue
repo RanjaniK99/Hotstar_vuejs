@@ -1,5 +1,5 @@
 <template>
-<div class="content">
+<div class="bg-light">
 <h2 class="about">About Us</h2>
 <p class="about2">Disney+ Hotstar is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and movies across 9 languages, and every major sport covered live. Highly evolved video streaming technology and a high attention to quality of experience across devices and platforms, make Disney+ Hotstar the most complete video destination for Over The Top (OTT) video consumers.</p>
 
@@ -28,17 +28,7 @@ p {
   color: black;
   font-size: 15px;
 }
-.content {
-  background-color: gainsboro;
-  font-size: 18px;
-  font-family: Arial, Helvetica, sans-serif;
-}
 .txt{
   text-decoration: none;
-}
-@media (min-width: 70px) and (max-width: 310px) {
-  .content{
-    margin-left:5px;
-  }
 }
 </style>

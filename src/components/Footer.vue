@@ -1,6 +1,6 @@
 <template>
       
-      <div class="footer bg-dark container-fluid">
+      <div class="ft container-fluid">
     <p class="color">In case of any query, email us at<a  href="#" class=" text-decoration-none ">  subscribe@hotstar.com</a></p>
     <div class="fw-bold">
        <router-link to="About"  class=" text-decoration-none  subcolor">About</router-link>&nbsp;
@@ -35,9 +35,8 @@
 </script>
 
 <style>
-.footer {
+.ft {
   height: fit-content;
-  
 }
 .color {
   color: white;
